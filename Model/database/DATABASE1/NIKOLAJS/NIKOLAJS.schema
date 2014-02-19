@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<schema xmlns="http://xmlns.oracle.com/jdeveloper/1112/offlinedb">
+  <ID class="oracle.javatools.db.IdentifierBasedID">
+    <identifier class="java.lang.String">c6eee63b-26ec-4597-9a28-d32143c67c17</identifier>
+  </ID>
+  <name>NIKOLAJS</name>
+</schema>
