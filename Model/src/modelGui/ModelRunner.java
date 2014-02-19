@@ -156,15 +156,3 @@ this.dbConnection.prepareStatement("select entity_type, count(model_time) as c f
         }
     }
 }
-            //            if ((rowCount < 100000) || (modelTime == lifeTime)) {
-            //
-            //
-            //                Object[] row =
-            //                    new Object[] { Double.toString(stats.getEvent().getTime()), stats.getEvent().getType().toString(),
-            //                                   Integer.toString(stats.getQueueSize()), type };
-            //
-            //                output.addRow(row);
-            //                row = null;
-            //                stats = null;
-            //                rowCount++;
-            //            }
